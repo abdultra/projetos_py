@@ -14,6 +14,8 @@ ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='').split(',')
 INSTALLED_APPS = [
 	# Django apps
 	'django.contrib.admin',
+    'phonenumber_field',
+    'django_countries',
 	'django.contrib.auth',
 	'django.contrib.contenttypes',
 	'django.contrib.sessions',

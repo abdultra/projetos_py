@@ -1,0 +1,7 @@
+SECRET_KEY=django-insecure-^1am0w)yhc!uo)5yce-p$8hpl#r+vi@5kq%w#ay(_4venbgs+-
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1,localhost
+
+EMAIL_BACKEND=django.core.mail.backends.console.EmailBackend
+EMAIL_HOST_USER=abdultrato@gmail.com
+EMAIL_HOST_PASSWORD=CfCw@6205
